@@ -1,0 +1,15 @@
+C:\Users\Jacek\source\repos\JAProject\JAProject\obj\Debug\JAProject.csprojAssemblyReference.cache
+C:\Users\Jacek\source\repos\JAProject\JAProject\obj\Debug\MainWindow.g.cs
+C:\Users\Jacek\source\repos\JAProject\JAProject\obj\Debug\App.g.cs
+C:\Users\Jacek\source\repos\JAProject\JAProject\obj\Debug\JAProject_MarkupCompile.cache
+C:\Users\Jacek\source\repos\JAProject\JAProject\obj\Debug\JAProject_MarkupCompile.lref
+C:\Users\Jacek\source\repos\JAProject\JAProject\bin\Debug\JAProject.exe.config
+C:\Users\Jacek\source\repos\JAProject\JAProject\bin\Debug\JAProject.exe
+C:\Users\Jacek\source\repos\JAProject\JAProject\bin\Debug\JAProject.pdb
+C:\Users\Jacek\source\repos\JAProject\JAProject\obj\Debug\MainWindow.baml
+C:\Users\Jacek\source\repos\JAProject\JAProject\obj\Debug\JAProject.g.resources
+C:\Users\Jacek\source\repos\JAProject\JAProject\obj\Debug\JAProject.Properties.Resources.resources
+C:\Users\Jacek\source\repos\JAProject\JAProject\obj\Debug\JAProject.csproj.GenerateResource.cache
+C:\Users\Jacek\source\repos\JAProject\JAProject\obj\Debug\JAProject.csproj.CoreCompileInputs.cache
+C:\Users\Jacek\source\repos\JAProject\JAProject\obj\Debug\JAProject.exe
+C:\Users\Jacek\source\repos\JAProject\JAProject\obj\Debug\JAProject.pdb
