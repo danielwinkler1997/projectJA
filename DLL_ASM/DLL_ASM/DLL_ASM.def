@@ -1,0 +1,9 @@
+;------------------------------------------------------
+; Projekt JA - Kalkulator uk³adów równañ (metoda LU)
+; Daniel Winkler sem.5 grp.1
+; Wersja: 1.0
+;-------------------------------------------------------
+
+LIBRARY DLL_ASM
+EXPORTS calculateASM
+
