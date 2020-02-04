@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  DLL_CPP.cpp
+     Creating library F:\OneDrive\Studia\JA [proj]\Mój projekt\URL Application\x64\Release\DLL_CPP.lib and object F:\OneDrive\Studia\JA [proj]\Mój projekt\URL Application\x64\Release\DLL_CPP.exp
+  Generating code
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DLL_CPP.vcxproj -> F:\OneDrive\Studia\JA [proj]\Mój projekt\URL Application\x64\Release\DLL_CPP.dll
+  DLL_CPP.vcxproj -> F:\OneDrive\Studia\JA [proj]\Mój projekt\URL Application\x64\Release\DLL_CPP.pdb (Full PDB)
