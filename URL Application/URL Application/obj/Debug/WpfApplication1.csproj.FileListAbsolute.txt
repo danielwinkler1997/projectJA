@@ -1,0 +1,59 @@
+G:\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+G:\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+G:\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+G:\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+G:\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+G:\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+G:\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+G:\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+G:\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+G:\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+G:\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+G:\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+G:\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+G:\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Dominik\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Dominik\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Dominik\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Dominik\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Dominik\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Dominik\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Dominik\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Dominik\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Dominik\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Dominik\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Dominik\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Dominik\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Dominik\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Dominik\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+G:\JA GIT folder\JA_D.Raczka_Rozwiazywanie_URL\Zrodla\Application\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+G:\JA GIT folder\JA_D.Raczka_Rozwiazywanie_URL\Zrodla\Application\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+G:\JA GIT folder\JA_D.Raczka_Rozwiazywanie_URL\Zrodla\Application\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+G:\JA GIT folder\JA_D.Raczka_Rozwiazywanie_URL\Zrodla\Application\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+G:\JA GIT folder\JA_D.Raczka_Rozwiazywanie_URL\Zrodla\Application\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+G:\JA GIT folder\JA_D.Raczka_Rozwiazywanie_URL\Zrodla\Application\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+G:\JA GIT folder\JA_D.Raczka_Rozwiazywanie_URL\Zrodla\Application\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+G:\JA GIT folder\JA_D.Raczka_Rozwiazywanie_URL\Zrodla\Application\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+G:\JA GIT folder\JA_D.Raczka_Rozwiazywanie_URL\Zrodla\Application\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+G:\JA GIT folder\JA_D.Raczka_Rozwiazywanie_URL\Zrodla\Application\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+G:\JA GIT folder\JA_D.Raczka_Rozwiazywanie_URL\Zrodla\Application\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+G:\JA GIT folder\JA_D.Raczka_Rozwiazywanie_URL\Zrodla\Application\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+G:\JA GIT folder\JA_D.Raczka_Rozwiazywanie_URL\Zrodla\Application\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+G:\JA GIT folder\JA_D.Raczka_Rozwiazywanie_URL\Zrodla\Application\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+F:\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+F:\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+F:\OneDrive\Studia\JA [proj]\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+F:\OneDrive\Studia\JA [proj]\Mój projekt\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+F:\OneDrive\Studia\JA [proj]\Mój projekt\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+F:\OneDrive\Studia\JA [proj]\Mój projekt\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+F:\OneDrive\Studia\JA [proj]\Mój projekt\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+F:\OneDrive\Studia\JA [proj]\Mój projekt\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+F:\OneDrive\Studia\JA [proj]\Mój projekt\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+F:\OneDrive\Studia\JA [proj]\Mój projekt\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+F:\OneDrive\Studia\JA [proj]\Mój projekt\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+F:\OneDrive\Studia\JA [proj]\Mój projekt\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+F:\OneDrive\Studia\JA [proj]\Mój projekt\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+F:\OneDrive\Studia\JA [proj]\Mój projekt\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+F:\OneDrive\Studia\JA [proj]\Mój projekt\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+F:\OneDrive\Studia\JA [proj]\Mój projekt\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+F:\OneDrive\Studia\JA [proj]\Mój projekt\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache

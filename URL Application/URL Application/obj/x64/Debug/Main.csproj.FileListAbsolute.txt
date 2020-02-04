@@ -1,0 +1,44 @@
+F:\OneDrive\Studia\JA [proj]\Mój projekt\URL Application\URL Application\obj\x64\Debug\Main.csprojResolveAssemblyReference.cache
+F:\OneDrive\Studia\JA [proj]\Mój projekt\URL Application\URL Application\obj\x64\Debug\MainWindow.g.cs
+F:\OneDrive\Studia\JA [proj]\Mój projekt\URL Application\URL Application\obj\x64\Debug\App.g.cs
+F:\OneDrive\Studia\JA [proj]\Mój projekt\URL Application\URL Application\obj\x64\Debug\MainWindow.baml
+F:\OneDrive\Studia\JA [proj]\Mój projekt\URL Application\URL Application\obj\x64\Debug\Main.csproj.GenerateResource.Cache
+F:\OneDrive\Studia\JA [proj]\Mój projekt\URL Application\URL Application\bin\x64\Debug\URL Application.exe.config
+F:\OneDrive\Studia\JA [proj]\Mój projekt\URL Application\URL Application\bin\x64\Debug\URL Application.exe
+F:\OneDrive\Studia\JA [proj]\Mój projekt\URL Application\URL Application\bin\x64\Debug\URL Application.pdb
+F:\OneDrive\Studia\JA [proj]\Mój projekt\URL Application\URL Application\obj\x64\Debug\URL Application_MarkupCompile.cache
+F:\OneDrive\Studia\JA [proj]\Mój projekt\URL Application\URL Application\obj\x64\Debug\URL Application_MarkupCompile.lref
+F:\OneDrive\Studia\JA [proj]\Mój projekt\URL Application\URL Application\obj\x64\Debug\URL Application.g.resources
+F:\OneDrive\Studia\JA [proj]\Mój projekt\URL Application\URL Application\obj\x64\Debug\URLApplication.Properties.Resources.resources
+F:\OneDrive\Studia\JA [proj]\Mój projekt\URL Application\URL Application\obj\x64\Debug\URL Application.exe
+F:\OneDrive\Studia\JA [proj]\Mój projekt\URL Application\URL Application\obj\x64\Debug\URL Application.pdb
+C:\Users\Jacek\Desktop\ORIGINAL\ProjektJA-master\URL Application\URL Application\bin\x64\Debug\URL Application.exe.config
+C:\Users\Jacek\Desktop\ORIGINAL\ProjektJA-master\URL Application\URL Application\bin\x64\Debug\URL Application.exe
+C:\Users\Jacek\Desktop\ORIGINAL\ProjektJA-master\URL Application\URL Application\bin\x64\Debug\URL Application.pdb
+C:\Users\Jacek\Desktop\ORIGINAL\ProjektJA-master\URL Application\URL Application\obj\x64\Debug\Main.csprojAssemblyReference.cache
+C:\Users\Jacek\Desktop\ORIGINAL\ProjektJA-master\URL Application\URL Application\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Jacek\Desktop\ORIGINAL\ProjektJA-master\URL Application\URL Application\obj\x64\Debug\App.g.cs
+C:\Users\Jacek\Desktop\ORIGINAL\ProjektJA-master\URL Application\URL Application\obj\x64\Debug\URL Application_MarkupCompile.cache
+C:\Users\Jacek\Desktop\ORIGINAL\ProjektJA-master\URL Application\URL Application\obj\x64\Debug\URL Application_MarkupCompile.lref
+C:\Users\Jacek\Desktop\ORIGINAL\ProjektJA-master\URL Application\URL Application\obj\x64\Debug\MainWindow.baml
+C:\Users\Jacek\Desktop\ORIGINAL\ProjektJA-master\URL Application\URL Application\obj\x64\Debug\URL Application.g.resources
+C:\Users\Jacek\Desktop\ORIGINAL\ProjektJA-master\URL Application\URL Application\obj\x64\Debug\URLApplication.Properties.Resources.resources
+C:\Users\Jacek\Desktop\ORIGINAL\ProjektJA-master\URL Application\URL Application\obj\x64\Debug\Main.csproj.GenerateResource.cache
+C:\Users\Jacek\Desktop\ORIGINAL\ProjektJA-master\URL Application\URL Application\obj\x64\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\Jacek\Desktop\ORIGINAL\ProjektJA-master\URL Application\URL Application\obj\x64\Debug\URL Application.exe
+C:\Users\Jacek\Desktop\ORIGINAL\ProjektJA-master\URL Application\URL Application\obj\x64\Debug\URL Application.pdb
+C:\Users\Jacek\Desktop\Projekt JA\URL Application\URL Application\bin\x64\Debug\URL Application.exe.config
+C:\Users\Jacek\Desktop\Projekt JA\URL Application\URL Application\bin\x64\Debug\URL Application.exe
+C:\Users\Jacek\Desktop\Projekt JA\URL Application\URL Application\bin\x64\Debug\URL Application.pdb
+C:\Users\Jacek\Desktop\Projekt JA\URL Application\URL Application\obj\x64\Debug\Main.csprojAssemblyReference.cache
+C:\Users\Jacek\Desktop\Projekt JA\URL Application\URL Application\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Jacek\Desktop\Projekt JA\URL Application\URL Application\obj\x64\Debug\App.g.cs
+C:\Users\Jacek\Desktop\Projekt JA\URL Application\URL Application\obj\x64\Debug\URL Application_MarkupCompile.cache
+C:\Users\Jacek\Desktop\Projekt JA\URL Application\URL Application\obj\x64\Debug\URL Application_MarkupCompile.lref
+C:\Users\Jacek\Desktop\Projekt JA\URL Application\URL Application\obj\x64\Debug\MainWindow.baml
+C:\Users\Jacek\Desktop\Projekt JA\URL Application\URL Application\obj\x64\Debug\URL Application.g.resources
+C:\Users\Jacek\Desktop\Projekt JA\URL Application\URL Application\obj\x64\Debug\URLApplication.Properties.Resources.resources
+C:\Users\Jacek\Desktop\Projekt JA\URL Application\URL Application\obj\x64\Debug\Main.csproj.GenerateResource.cache
+C:\Users\Jacek\Desktop\Projekt JA\URL Application\URL Application\obj\x64\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\Jacek\Desktop\Projekt JA\URL Application\URL Application\obj\x64\Debug\URL Application.exe
+C:\Users\Jacek\Desktop\Projekt JA\URL Application\URL Application\obj\x64\Debug\URL Application.pdb

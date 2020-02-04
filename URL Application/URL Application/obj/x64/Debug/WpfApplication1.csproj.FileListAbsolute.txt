@@ -1,0 +1,14 @@
+F:\OneDrive\Studia\JA [proj]\Mój projekt\WpfApplication1\WpfApplication1\bin\x64\Debug\WpfApplication1.exe.config
+F:\OneDrive\Studia\JA [proj]\Mój projekt\WpfApplication1\WpfApplication1\obj\x64\Debug\MainWindow.g.cs
+F:\OneDrive\Studia\JA [proj]\Mój projekt\WpfApplication1\WpfApplication1\obj\x64\Debug\App.g.cs
+F:\OneDrive\Studia\JA [proj]\Mój projekt\WpfApplication1\WpfApplication1\obj\x64\Debug\WpfApplication1_MarkupCompile.cache
+F:\OneDrive\Studia\JA [proj]\Mój projekt\WpfApplication1\WpfApplication1\obj\x64\Debug\WpfApplication1_MarkupCompile.lref
+F:\OneDrive\Studia\JA [proj]\Mój projekt\WpfApplication1\WpfApplication1\bin\x64\Debug\WpfApplication1.exe
+F:\OneDrive\Studia\JA [proj]\Mój projekt\WpfApplication1\WpfApplication1\bin\x64\Debug\WpfApplication1.pdb
+F:\OneDrive\Studia\JA [proj]\Mój projekt\WpfApplication1\WpfApplication1\obj\x64\Debug\MainWindow.baml
+F:\OneDrive\Studia\JA [proj]\Mój projekt\WpfApplication1\WpfApplication1\obj\x64\Debug\WpfApplication1.g.resources
+F:\OneDrive\Studia\JA [proj]\Mój projekt\WpfApplication1\WpfApplication1\obj\x64\Debug\WpfApplication1.Properties.Resources.resources
+F:\OneDrive\Studia\JA [proj]\Mój projekt\WpfApplication1\WpfApplication1\obj\x64\Debug\WpfApplication1.csproj.GenerateResource.Cache
+F:\OneDrive\Studia\JA [proj]\Mój projekt\WpfApplication1\WpfApplication1\obj\x64\Debug\WpfApplication1.exe
+F:\OneDrive\Studia\JA [proj]\Mój projekt\WpfApplication1\WpfApplication1\obj\x64\Debug\WpfApplication1.pdb
+F:\OneDrive\Studia\JA [proj]\Mój projekt\WpfApplication1\WpfApplication1\obj\x64\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
